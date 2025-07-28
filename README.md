@@ -1,16 +1,17 @@
-## I'm Paresh R
-🎓 **B.E in Computer Science & Business Systems @ MIT Mysore**  
-💻 **Aspiring Software Developer passionate about building clean and creative web experiences**  
-🚀 **Learning and working with web tech, AI tools, and data visualization platforms** 
+## About me
+**I'm Paresh R**
+**B.E in Computer Science & Business Systems @ MIT Mysore**  
+**Aspiring Software Developer passionate about building clean and creative web experiences**  
+**Learning and working with web tech, AI tools, and data visualization platforms** 
 
-# 🌐 Connect with me:
+# Connect with me
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/paresh_gowda) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/paresh-r) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pareshgowda16@gmail.com) 
 
-# 💻 Skills:
-![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+# Skills
+![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html&logoColor=white) 
+![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
