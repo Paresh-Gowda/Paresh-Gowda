@@ -6,7 +6,7 @@
 
 # Connect with me
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/paresh_gowda) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/paresh-r) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/paresh-r-38095a356?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BSlMaApBASieNonqfzjqBWQ%3D%3D) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pareshgowda16@gmail.com) 
 
 # Skills
