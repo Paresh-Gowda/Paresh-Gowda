@@ -2,10 +2,6 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding GIF"/>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Paresh-Gowda&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
 ---
 
 # About me
