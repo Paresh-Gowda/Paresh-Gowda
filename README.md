@@ -11,8 +11,8 @@
 # About me
 **I'm Paresh R**<br>
 **B.E in Computer Science & Business Systems @ MIT Mysore**<br>
-**Aspiring Full-Stack Developer driven to solve real-world problems through code**
-**Passionate about blending web development with the power of AI**
+**Aspiring Full-Stack Developer driven to solve real-world problems through code**<br>
+**Passionate about blending web development with the power of AI**<br>
 **Constantly learning, evolving, and diving deep to sharpen my skills every day**
 
 ---
