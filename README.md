@@ -2,23 +2,22 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding GIF"/>
 </p>
 
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Paresh-Gowda&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-# About me
+---
 
+# About me
 **I'm Paresh R**<br>
 **B.E in Computer Science & Business Systems @ MIT Mysore** <br>
-**Aspiring Software Developer passionate about building clean and creative web experiences**  
-**Learning and working with web tech, AI tools, and data visualization platforms** 
+**Aspiring Full-Stack Developer driven to solve real-world problems through code**<br>  
+**Passionate about blending web development with the power of AI**<br>  
+**Constantly learning, evolving, and diving deep to sharpen my skills every day**<br>
 
 ---
 
 # Connect with me
-
 <p align="center">
   <a href="https://instagram.com/paresh_gowda">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
@@ -34,7 +33,6 @@
 ---
 
 # Skills
-
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white" />
@@ -45,7 +43,6 @@
 ---
 
 # GitHub Stats
-
 <p align="center">
   <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Paresh-Gowda&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="GitHub Stats" />
 </p>
