@@ -1,4 +1,4 @@
-## About me
+# About me
 **I'm Paresh R**<br>
 **B.E in Computer Science & Business Systems @ MIT Mysore** <br>
 **Aspiring Software Developer passionate about building clean and creative web experiences**  
@@ -21,7 +21,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Paresh-Gowda&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![Visitor Count](https://visitcount.itsvg.in/api?id=Paresh-Gowda&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Visitor Count](https://visitcount.itsvg.in/api?id=Paresh-Gowda&icon=0&color=0)]
 
 
 
