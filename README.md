@@ -1,6 +1,6 @@
 ## About me
-**I'm Paresh R**
-**B.E in Computer Science & Business Systems @ MIT Mysore**  
+**I'm Paresh R**<br>
+**B.E in Computer Science & Business Systems @ MIT Mysore** <br>
 **Aspiring Software Developer passionate about building clean and creative web experiences**  
 **Learning and working with web tech, AI tools, and data visualization platforms** 
 
