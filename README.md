@@ -22,7 +22,7 @@
   <a href="https://instagram.com/paresh_gowda">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/paresh-r-38095a356">
+  <a href="https://linkedin.com/in/paresh-r">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" />
   </a>
   <a href="mailto:pareshgowda16@gmail.com">
