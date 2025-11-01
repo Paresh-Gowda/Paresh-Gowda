@@ -6,8 +6,6 @@
   <img src="https://komarev.com/ghpvc/?username=Paresh-Gowda&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<h3><> Learn. Code. Build. Repeat <></h3>
-
 ---
 
 # About me
@@ -45,15 +43,15 @@
 
 # GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Paresh-Gowda&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Paresh-Gowda&theme=gruvbox&hide_border=true" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Paresh-Gowda&theme=tokyonight" alt="GitHub Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Paresh-Gowda&theme=gruvbox" alt="GitHub Summary" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paresh-Gowda&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paresh-Gowda&layout=compact&theme=gruvbox&hide_border=true" height="150"/>
 </p>
 
 ---
