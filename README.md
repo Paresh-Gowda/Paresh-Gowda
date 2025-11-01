@@ -6,11 +6,12 @@
   <img src="https://komarev.com/ghpvc/?username=Paresh-Gowda&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
+<h3><> Learn. Code. Build. Repeat <></h3>
+
 ---
 
 # About me
 **I'm Paresh R**<br>
-**B.E in Computer Science & Business Systems @ MIT Mysore**<br>
 **Aspiring Full-Stack Developer driven to solve real-world problems through code**<br>
 **Passionate about blending web development with the power of AI**<br>
 **Constantly learning, evolving, and diving deep to sharpen my skills every day**
@@ -28,35 +29,31 @@
   <a href="mailto:pareshgowda16@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" />
   </a>
+  <a href="https://discord.com/users/1391081009025646632">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 # Skills
 <p align="center">
-  <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-AI%20Tools-FF6F61?style=for-the-badge&logo=artificial-intelligence&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,py,c,git,github,powerbi" />
 </p>
 
 ---
 
 # GitHub Stats
 <p align="center">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Paresh-Gowda&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Paresh-Gowda&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Paresh-Gowda&theme=radical" alt="GitHub Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Paresh-Gowda&theme=tokyonight" alt="GitHub Summary" />
 </p>
 
 <p align="center">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Paresh-Gowda&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paresh-Gowda&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 ---
