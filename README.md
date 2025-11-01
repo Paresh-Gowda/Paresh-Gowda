@@ -21,7 +21,7 @@
   <a href="https://instagram.com/paresh_gowda">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/paresh-r" target="_blank">
+  <a href="https://linkedin.com/in/paresh-r">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:pareshgowda16@gmail.com">
@@ -43,15 +43,15 @@
 
 # GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Paresh-Gowda&theme=tokyonight&hide_border=true&ring=ff4d4d&fire=ff4d4d&currStreakLabel=00bfff" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Paresh-Gowda&theme=dark&hide_border=true&background=0D1117&ring=ff1e1e&fire=ff1e1e&currStreakLabel=1e90ff&sideNums=1e90ff&currStreakNum=ff1e1e" height="150" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Paresh-Gowda&theme=tokyonight" alt="GitHub Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Paresh-Gowda&theme=github_dark" alt="GitHub Summary" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paresh-Gowda&layout=compact&theme=tokyonight&hide_border=true" height="150" />
-</p>>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paresh-Gowda&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=ff1e1e&text_color=1e90ff" height="150" />
+</p>
 
 ---
