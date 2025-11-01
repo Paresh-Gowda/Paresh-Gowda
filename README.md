@@ -34,7 +34,7 @@
 
 ---
 
-# Skills
+# Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,java,py,c,git,github,powerbi" />
 </p>
@@ -43,15 +43,15 @@
 
 # GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Paresh-Gowda&theme=dark&hide_border=true&background=0D1117&ring=ff1e1e&fire=ff1e1e&currStreakLabel=1e90ff&sideNums=1e90ff&currStreakNum=ff1e1e" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Paresh-Gowda&theme=blue_navy&hide_border=true" height="150" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Paresh-Gowda&theme=github_dark" alt="GitHub Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Paresh-Gowda&theme=blue_navy" alt="GitHub Summary" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paresh-Gowda&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=ff1e1e&text_color=1e90ff" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paresh-Gowda&layout=compact&theme=blue_navy&hide_border=true" height="150" />
 </p>
 
 ---
