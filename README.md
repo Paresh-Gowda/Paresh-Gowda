@@ -48,7 +48,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Paresh-Gowda&layout=compact&theme=radical&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats-deploy-pi.vercel.app/api/top-langs/?username=Paresh-Gowda&layout=compact&theme=radical&hide_border=true" height="150" />
 </p>
 
 ---
