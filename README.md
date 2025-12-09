@@ -24,9 +24,6 @@
   <a href="https://instagram.com/paresh_gowda">
     <img src="https://img.shields.io/badge/Instagram-FF1E56?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://discord.com/users/1391081009025646632">
-    <img src="https://img.shields.io/badge/Discord-1E90FF?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
   <a href="mailto:pareshgowda16@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
