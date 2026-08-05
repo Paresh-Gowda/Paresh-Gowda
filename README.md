@@ -50,7 +50,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Paresh-Gowda&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paresh-Gowda&layout=compact&theme=radical&hide_border=true" height="150" />
 </p>
 
 ---
