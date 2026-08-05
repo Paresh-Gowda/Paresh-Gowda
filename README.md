@@ -42,15 +42,16 @@
 
 # GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Paresh-Gowda&theme=radical&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Paresh-Gowda&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paresh-Gowda&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Paresh-Gowda&theme=radical" alt="GitHub Summary" />
+  <img src="https://streak-stats.demolab.com?user=Paresh-Gowda&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-deploy-pi.vercel.app/api/top-langs/?username=Paresh-Gowda&layout=compact&theme=radical&hide_border=true" height="150" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Paresh-Gowda&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
