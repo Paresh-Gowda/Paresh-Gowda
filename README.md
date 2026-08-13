@@ -42,11 +42,11 @@
 
 # GitHub Stats
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Paresh-Gowda&theme=tokyonight&show_icons=true" />
+  <img src="https://streak-stats.demolab.com/?user=Paresh-Gowda&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Paresh-Gowda&layout=compact&theme=tokyonight" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Paresh-Gowda&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
