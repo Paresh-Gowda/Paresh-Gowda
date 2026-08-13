@@ -42,7 +42,7 @@
 
 # GitHub Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Paresh-Gowda&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Paresh-Gowda&theme=tokyonight"/>
 </p>
 
 <p align="center">
