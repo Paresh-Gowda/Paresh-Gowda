@@ -9,10 +9,11 @@
 ---
 
 # About me
-**I'm Paresh R**<br>
-**Aspiring Full-Stack Developer driven to solve real-world problems through code**<br>
-**Passionate about blending web development with the power of AI**<br>
-**Constantly learning, evolving, and diving deep to sharpen my skills every day**
+**Hey, I'm Paresh R**
+**Aspiring Full-Stack Developer building practical solutions for real-world problems**  
+**Passionate about blending Web Development with AI to create smarter, more useful applications**  
+**Learning by building, experimenting, breaking things, and constantly improving**  
+**Focused on becoming a developer who doesn't just write code, but builds things that matter**
 
 ---
 
